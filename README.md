@@ -1,4 +1,4 @@
-Hi, I’m @Bogdan Cristian, I hope you like my projects. The code is a mess but it works right ?
+Hi, I’m Bogdan Cristian, I hope you like my projects. The code is a mess but it works right ?
 You can contact me at
 - bogdan-cristian@outlook.com
 
